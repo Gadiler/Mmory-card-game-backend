@@ -1,4 +1,4 @@
-# Mmory-card-game-backend
+# Memory-card-game-backend
  Spring boot project with Angular (Front) implementation
 
 # Getting Started
