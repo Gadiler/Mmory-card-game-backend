@@ -4,18 +4,11 @@
 
 ## The Memory card game project backend:
 
-Implementation SpringBoot, which allows companies CRUD coupons for their customers. The customers can purchase coupons
-and use them. The Admin has extra utilities:
-
-- monitor and view info gathered by the transaction system.
+Implementation SpringBoot, which allows companies CRUD users for their scores. 
 
 ### How to use:
 
 Add MySQL-connector-java-8.0.23 External Libraries
-
-- url = "jdbc:mysql://localhost:3306/couponsystem82204"
-- username = "root"
-- password = "311217905"
 
 ### Tables
 
